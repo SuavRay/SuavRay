@@ -1,12 +1,15 @@
 <h1>Hi, I'm Ray! <a href="https://www.linkedin.com/in/raymondggomez/">Cybersecurity Professional - Detection and Response</a></h1>
 
 <h2>👨‍💻 Automation Development Projects:</h2>
+
   - [Python API Automation](https://github.com/SuavRay/URL)
 
 <h2>👨‍💻 IAM Development Projects:</h2>
+
   - [Active Directory](https://github.com/SuavRay/URL)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+
   - [Defender Advanced Hunting KQLs - Email Querys](https://github.com/SuavRay/URL)
   
 <h2>📺 Popular YouTube Videos</h2>
