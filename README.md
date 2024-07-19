@@ -11,6 +11,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Defender Advanced Hunting KQLs - Email Querys](https://github.com/SuavRay/URL)
+  - [Defender Advanced Hunting KQLs - File Querys](https://github.com/SuavRay/URL)
   
 <h2>📺 Popular YouTube Videos</h2>
 
