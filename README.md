@@ -8,8 +8,8 @@
 
   - [Active Directory](https://github.com/SuavRay/URL)
 
-<h2>👨‍💻 [Kusto Query Language (KQL) : Defender Advanced Hunting](https://github.com/SuavRay/KQL)</h2>
-
+<h2>👨‍💻 Kusto Query Language (KQL) : Defender Advanced Hunting</h2>
+  - <b>[KQL Repo](https://github.com/SuavRay/KQL)</b>
   - [Event Queries](https://github.com/SuavRay/KQL/blob/main/Events)
   - [Network Queries](https://github.com/SuavRay/KQL/blob/main/Network)
   
