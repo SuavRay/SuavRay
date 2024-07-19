@@ -6,7 +6,9 @@
 
 <h2>👨‍💻 IAM Development Projects:</h2>
 
-  - [Active Directory](https://github.com/SuavRay/URL)
+  - <b>[Main Powershell Repo](https://github.com/SuavRay/Powershell)</b>
+  - [ADUser Scripts](https://github.com/SuavRay/Powershell/blob/main/ADuser)
+  - [RBAC Scripts](https://github.com/SuavRay/Powershell/blob/main/RBAC)
 
 <h2>👨‍💻 Kusto Query Language (KQL) : Defender Advanced Hunting</h2>
 
