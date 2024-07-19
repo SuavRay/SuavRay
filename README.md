@@ -8,10 +8,10 @@
 
   - [Active Directory](https://github.com/SuavRay/URL)
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Kusto Query Language (KQL) : Defender Advanced Hunting</h2>
 
-  - [Defender Advanced Hunting KQLs - Email Querys](https://github.com/SuavRay/URL)
-  - [Defender Advanced Hunting KQLs - File Querys](https://github.com/SuavRay/URL)
+  - [File Queries - Email Querys](https://github.com/SuavRay/KQL/File)
+  - [Network Queriess](https://github.com/SuavRay/KQL/Network)
   
 <h2>📺 Popular YouTube Videos</h2>
 
